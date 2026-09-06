@@ -1,0 +1,5 @@
+num = 6
+
+square = num * num
+
+print("Square =", square)
